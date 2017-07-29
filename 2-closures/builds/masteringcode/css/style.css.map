@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAIA;EACE,oBAA2B;CAC5B","file":"style.css","sourcesContent":[":root {\r\n  --myColor: #FFCF4E;\r\n}\r\n\r\nbody {\r\n  background: var(--myColor);\r\n}"]}
