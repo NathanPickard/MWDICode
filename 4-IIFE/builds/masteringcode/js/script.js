@@ -17,8 +17,9 @@ function makeBoxes(howMany) {
   var myNode = document.querySelector('.boxes');
 
   for (var i = 0; i < howMany; i++) {
+
     myElement = document.createElement('div');
-    myElement.class = 'box';
+    myElement.className = 'box';
     myElement.style = 'background-color: ' + colors[currColor];
     myNode.appendChild(myElement);
 
