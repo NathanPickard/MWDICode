@@ -28,4 +28,10 @@ body { font-family: -apple-system, system-ui, -apple-system, BlinkMacSystemFont,
   display: none;
   position: absolute;
 }
+
+.btn .tooltip.active {
+  display: block;
+  bottom: 40px;
+  left: 10px;
+}
 /*# sourceMappingURL=style.css.map */
