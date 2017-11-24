@@ -1,11 +1,8 @@
 {
-  "name": "12-arrow-functions",
+  "name": "11-sass",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Nathan Pickard <nathan.pickard87@gmail.com>",
   "license": "ISC",
   "devDependencies": {
